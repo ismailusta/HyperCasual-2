@@ -302,7 +302,7 @@ Transform:
   m_GameObject: {fileID: 508439932}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.00035, z: -0.0099}
+  m_LocalPosition: {x: 0, y: -0.00035, z: -0.00968}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -322,9 +322,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   meshFlter: {fileID: 483896450}
   meshCollider: {fileID: 483896448}
-  radius: 1.42
-  holeCenterTransform: {fileID: 0}
-  moveSpeed: 0
+  radius: 0.28
+  holeCenterTransform: {fileID: 508439933}
+  moveSpeed: 25
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
